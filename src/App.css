@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+}
+
+.app{
+  background-color: #fafafa;
+  /* height: 100%; */
+}
+.app__header{
+  object-fit: contain;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.app__headerImage{
+  height: 30px;
+}
+
+.app__post{
+  /* margin-left: auto;
+  margin-right: auto;
+  width: 37%; */
+}
+
+.app__signup{
+  display: flex;
+  flex-direction: column;
+}
